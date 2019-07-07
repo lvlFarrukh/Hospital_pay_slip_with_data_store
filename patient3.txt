@@ -1,0 +1,10 @@
+!+----------Patient Pay Slip----------+!
+	Name: jkljasd
+	Age: 43
+	Phone Number: 9893121
+	Address: kjalkdsa
+	Doctor Name: Dr.farrukh
+	Specialized: General Physican
+	Fee: 500
+	Thank you For trust Us
+!+------------------------------------+!

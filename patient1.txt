@@ -1,0 +1,10 @@
+!+----------Patient Pay Slip----------+!
+	Name: farrukh
+	Age: 21
+	Phone Number: 879798432
+	Address: jlkjadads
+	Doctor Name: Dr.taha
+	Specialized: General Physican
+	Fee: 500
+	Thank you For trust Us
+!+------------------------------------+!

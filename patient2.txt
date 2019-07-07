@@ -1,0 +1,10 @@
+!+----------Patient Pay Slip----------+!
+	Name: hjkhka
+	Age: 4
+	Phone Number: 989813212
+	Address: jhkjai
+	Doctor Name: Dr.ali
+	Specialized: Child Specialist
+	Fee: 800
+	Thank you For trust Us
+!+------------------------------------+!
